@@ -5,7 +5,7 @@
 ### Codes coming soon
 
 
-**[Ziqin Wang](ziqin.wang.edu@gmail.com)**, Jun Xu, Li Liu, Fan Zhu, Ling Shao
+**[Ziqin Wang](https://github.com/Storife/RANet)**, Jun Xu, Li Liu, Fan Zhu, Ling Shao
 
 
 ——————————————————————————————————————————————————
@@ -27,7 +27,7 @@
 ##### Contact Information
 
 Email:
-[ziqin.wang.edu](ziqin.wang.edu@gmail.com) at gmail.com
+ziqin.wang.edu at gmail.com
 
 
 
