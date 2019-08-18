@@ -17,8 +17,10 @@
 
 
 # Downloads 
-[paper](https://github.com/Storife/RANet/raw/master/Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
+[Paper](https://github.com/Storife/RANet/raw/master/Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
+
 [Supplementary File](https://github.com/Storife/RANet/raw/master/Supp-Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
+
 Precomputed results:[Google drive](https://drive.google.com/folderview?id=1EwvDQiXAKAys_KVLTX5VRu8HggYiiUnl)
 
 
