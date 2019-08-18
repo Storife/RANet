@@ -1,5 +1,4 @@
-# [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://github.com/Storife/RANet/)
-[Download paper (pdf)](https://github.com/Storife/RANet/raw/master/Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
+# [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://github.com/Storife/RANet/) [(PDF)](https://github.com/Storife/RANet/raw/master/Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
 
 ## Codes coming soon
 
@@ -18,8 +17,9 @@
 
 
 # Downloads 
-## Precomputed results
-[Google drive](https://drive.google.com/folderview?id=1EwvDQiXAKAys_KVLTX5VRu8HggYiiUnl)
+[paper](https://github.com/Storife/RANet/raw/master/Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
+[Supplementary File](https://github.com/Storife/RANet/raw/master/Supp-Ziqin_RANet_Ranking%20Attention%20Network%20for%20Fast%20VOS.pdf)
+Precomputed results:[Google drive](https://drive.google.com/folderview?id=1EwvDQiXAKAys_KVLTX5VRu8HggYiiUnl)
 
 
 
