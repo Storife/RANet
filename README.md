@@ -28,12 +28,12 @@ Precomputed results:[Google drive](https://drive.google.com/folderview?id=1EwvDQ
 # Citation:
 
 	@InProceedings{Ziqin2019RANet,
-                       author = {Wang, Ziqin and Xu, Jun and Li, Liu and Zhu, Fan and Shao, Ling},
-                       title = {RANet: Ranking Attention Network for Fast Video Object Segmentation},
-                       booktitle = {ICCV},
-                       month = {Oct},
-                       year = {2019}
-                       }
+                   author = {Wang, Ziqin and Xu, Jun and Li, Liu and Zhu, Fan and Shao, Ling},
+                   title = {RANet: Ranking Attention Network for Fast Video Object Segmentation},
+                   booktitle = {ICCV},
+                   month = {Oct},
+                   year = {2019}
+                   }
                     
 
 
