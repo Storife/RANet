@@ -14,7 +14,7 @@
 <img src="pics/RANet.png" width="800px"/>
 
 ## 3. Ranking
-<img src="pics/Ranking.png" width="500px"/>
+<img src="pics/Ranking.png" width="400px"/>
 
 
 
