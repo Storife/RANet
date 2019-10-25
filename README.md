@@ -8,7 +8,7 @@
 # RANet
 
 ## 1. Overview
-<img src="pics/overview.png" width="800px"/>
+<img src="pics/overview.png" width="400px"/>
 
 ## 2. Framework
 <img src="pics/RANet.png" width="800px"/>
