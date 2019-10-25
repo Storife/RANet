@@ -24,7 +24,7 @@ torchvision = 0.2
 
 ## 2. Use
 1. Download the pretained model from this page.
-2. Link DAVIS folder into datasets
+2. Link DAVIS folder into datasets folder.
 3. Run RANet.py
 
 
