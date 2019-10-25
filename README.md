@@ -16,6 +16,15 @@
 ## 3. Ranking
 <img src="pics/Ranking.png" width="400px"/>
 
+# Code
+## 1. Requirement
+Pytorch
+torchvision = 0.2
+
+## 2. Use
+1. Download the pretained model from this page.
+2. Link DAVIS folder to datasets
+3. Run RANet.py
 
 
 # Downloads 
