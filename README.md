@@ -27,6 +27,11 @@ Precomputed results:[Google drive](https://drive.google.com/folderview?id=1EwvDQ
 
 Pretrained models:[Baidu](https://pan.baidu.com/s/1_AVtp_IElsU4fr5Jmw9sRA)
 
+# Others 
+[Discussion (Chinese)](https://zhuanlan.zhihu.com/p/79725498)
+
+[VOS (Chinese)](https://zhuanlan.zhihu.com/c_1152262715987898368)
+
 # Citation:
 
 	@InProceedings{Ziqin2019RANet,
