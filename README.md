@@ -1,7 +1,5 @@
 # [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://github.com/Storife/RANet/) [(PDF)](https://arxiv.org/abs/1908.06647)
 
-## Codes coming soon
-
 # Contact Information
 
 **[Ziqin Wang](https://github.com/Storife/)**  (ziqin.wang.edu at gmail dot com)
@@ -23,7 +21,7 @@
 
 Precomputed results:[Google drive](https://drive.google.com/folderview?id=1EwvDQiXAKAys_KVLTX5VRu8HggYiiUnl)
 
-
+Pretrained models:[Baidu](https://pan.baidu.com/s/1_AVtp_IElsU4fr5Jmw9sRA)
 
 # Citation:
 
