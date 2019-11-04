@@ -12,7 +12,7 @@ Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Networ
 1. [Introduction](#introduction)
 2. [Code](#code)
 3. [Download](#download)
-4. [Others](#acknowledgements)
+4. [Others](#others)
 5. [Citation](#citation)
 
 # Introduction
