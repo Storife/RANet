@@ -1,6 +1,6 @@
 # [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://github.com/Storife/RANet/) 
 
-Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Network for Fast Video Object Segmentation", ICCV 2019, [arXiv](https://arxiv.org/abs/1908.06647)
+Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Network for Fast Video Object Segmentation", ICCV 2019, [official version](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_RANet_Ranking_Attention_Network_for_Fast_Video_Object_Segmentation_ICCV_2019_paper.pdf), [arXiv](https://arxiv.org/abs/1908.06647)
 
 # Contact Information
 
@@ -28,11 +28,11 @@ Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Networ
 
 # Code
 ## 1. Requirement
-Pytorch
+Pytorch (tested on 1.0.1 and 0.4.1)
 
 torchvision = 0.2
 
-## 2. Use
+## 2. Usage
 1. Download the pretained model from this page.
 2. Link DAVIS folder into datasets folder.
 3. Run RANet.py
