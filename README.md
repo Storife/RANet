@@ -4,7 +4,9 @@ Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Networ
 
 # Contact Information
 
-**[Ziqin Wang](https://github.com/Storife/)**  (ziqin.wang.edu at gmail dot com)
+**[Ziqin Wang](https://github.com/Storife/)**  
+ziqin.wang.edu@gmail.com
+ziqin.wang@outlook.com
 
 ***
 
