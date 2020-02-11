@@ -8,8 +8,6 @@ Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Networ
 
 ziqin.wang.edu@gmail.com
 
-ziqin.wang@outlook.com
-
 ziqin.w@foxmail.com
 
 ***
