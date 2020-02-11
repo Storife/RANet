@@ -2,13 +2,15 @@
 
 Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Network for Fast Video Object Segmentation", ICCV 2019, [official version](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_RANet_Ranking_Attention_Network_for_Fast_Video_Object_Segmentation_ICCV_2019_paper.pdf), [arXiv](https://arxiv.org/abs/1908.06647)
 
-# Contact Information
+# Contact Information (For academic)
 
 **[Ziqin Wang](https://github.com/Storife/)**  
 
 ziqin.wang.edu@gmail.com
 
 ziqin.wang@outlook.com
+
+ziqin.w@foxmail.com
 
 ***
 
