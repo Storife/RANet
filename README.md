@@ -10,11 +10,7 @@ For academic
 
 ziqin.wang.edu@gmail.com
 
-For commecial
-
 ziqin.w@foxmail.com
-
-(Please conntact me if you use my code, and explan the perpose.)
 
 ***
 
