@@ -8,9 +8,9 @@ Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Networ
 
 For academic
 
-ziqin.wang.edu@gmail.com
+wangziqin@stu.xjtu.edu.cn
 
-ziqin.w@foxmail.com
+ziqin.wang.edu@gmail.com
 
 ***
 
