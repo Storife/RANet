@@ -12,6 +12,8 @@ wangziqin@stu.xjtu.edu.cn
 
 ziqin.wang.edu@gmail.com
 
+ziqin.wang@outlook.com
+
 ***
 
 ## Contents
