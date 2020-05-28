@@ -67,11 +67,13 @@ Pretrained models:[Baidu](https://pan.baidu.com/s/1_AVtp_IElsU4fr5Jmw9sRA), [Goo
 	@InProceedings{Ziqin2019RANet,
                    author = {Wang, Ziqin and Xu, Jun and Liu, Li and Zhu, Fan and Shao, Ling},
                    title = {RANet: Ranking Attention Network for Fast Video Object Segmentation},
-                   booktitle = {ICCV},
-                   month = {Oct},
+                   booktitle={2019 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
                    year = {2019}
+		   pages={3977-3986}
                    }
-                    
+
+  
+
 
 
 
