@@ -8,6 +8,16 @@ Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Networ
 
 ***
 
+
+# Updates
+## Results on Youtube-VOS dataset:
+Overall: 60.4
+J_seen: 66.8
+J_unseen: 51.1
+F_seen: 68.8
+F_unseen: 54.7
+
+
 ## Contents
 1. [Introduction](#introduction)
 2. [Code](#code)
