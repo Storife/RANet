@@ -1,19 +1,6 @@
 # [RANet: Ranking Attention Network for Fast Video Object Segmentation](https://github.com/Storife/RANet/) 
 
-Ziqin Wang, Jun Xu, Li Liu, Fan Zhu, Ling Shao, "RANet: Ranking Attention Network for Fast Video Object Segmentation", ICCV 2019, [official version](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_RANet_Ranking_Attention_Network_for_Fast_Video_Object_Segmentation_ICCV_2019_paper.pdf), [arXiv](https://arxiv.org/abs/1908.06647)
-
-## Updates
-#### Results on Youtube-VOS dataset (v1):
-
-Overall: 60.4
-
-J_seen: 66.8
-
-J_unseen: 51.1
-
-F_seen: 68.8
-
-F_unseen: 54.7	
+Ziqin Wang "RANet: Ranking Attention Network for Fast Video Object Segmentation", ICCV 2019, [official version](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_RANet_Ranking_Attention_Network_for_Fast_Video_Object_Segmentation_ICCV_2019_paper.pdf), [arXiv](https://arxiv.org/abs/1908.06647)
 
 ***
 
@@ -67,16 +54,6 @@ Pretrained models:[Baidu](https://pan.baidu.com/s/1_AVtp_IElsU4fr5Jmw9sRA), [Goo
 [Discussion (Chinese)](https://zhuanlan.zhihu.com/p/79725498)
 
 [VOS (Chinese)](https://zhuanlan.zhihu.com/c_1152262715987898368)
-
-# Citation:
-
-	@InProceedings{Ziqin2019RANet,
-                   author = {Wang, Ziqin and Xu, Jun and Liu, Li and Zhu, Fan and Shao, Ling},
-                   title = {RANet: Ranking Attention Network for Fast Video Object Segmentation},
-                   booktitle={2019 IEEE/CVF International Conference on Computer Vision (ICCV)}, 
-                   year = {2019}
-		   pages={3977-3986}
-                   }
 
   
 
