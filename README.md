@@ -48,6 +48,8 @@ Precomputed results:[Google drive](https://drive.google.com/folderview?id=1EwvDQ
 
 Pretrained models:[Baidu](https://pan.baidu.com/s/1_AVtp_IElsU4fr5Jmw9sRA), [Google drive](https://drive.google.com/folderview?id=1EwvDQiXAKAys_KVLTX5VRu8HggYiiUnl)
 
+Previous Submission:[baidu](https://pan.baidu.com/s/1zBDpYcilRB28z_dTMukNkg?pwd=hoxm) (code: hoxm), [google](https://drive.google.com/file/d/1aeWp4nO7sZm-dlNZSDAdrlg4HWrcfDaw/view?usp=drive_link)
+
 # Others
 
 ## Chinese version
