@@ -52,12 +52,6 @@ Previous Submission:[baidu](https://pan.baidu.com/s/1zBDpYcilRB28z_dTMukNkg?pwd=
 
 # Others
 
-## Chinese version
-[Discussion (Chinese)](https://zhuanlan.zhihu.com/p/79725498)
-
-[VOS (Chinese)](https://zhuanlan.zhihu.com/c_1152262715987898368)
-
-  
 
 
 
